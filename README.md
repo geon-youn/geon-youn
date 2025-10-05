@@ -1,5 +1,5 @@
-👋 Hi, I’m Geon, an undergraduate student at McMaster University persuing a B. Eng. in Computer Science.
+👋 Hi, I’m Geon, a 5th year undergraduate student at McMaster University persuing a B.A.Sc. in Honours Computer Science.
 
-I hope to become a full-stack developer and have already learned some skills towards it like JS, HTML, CSS, React, and Express and more. 
+I'm interested in the human computer interaction part of web development and the mathematics behind machine learning.
 
-My personal website is now [here](https://geon-youn.github.io/)!
+My personal website is [here](https://geon-youn.github.io/)!
